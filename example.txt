@@ -1,0 +1,21 @@
+int main(){
+	int a = 1;
+	float b = 2.2;
+	float c = 2.4e-12;
+	float d = 2.4e52222;
+	float f = 2e2e2;
+	
+	c = a + b;
+	while (c>0){
+		if (b >= 7){
+			break;		
+		}else{
+			break;		
+		}
+		for (a = 0 ; a <= 9 ; a++){
+			b = b + 1 * 2 / 2
+		}
+	}
+	
+	return c;
+}
